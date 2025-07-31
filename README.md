@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXAzcWt4czQ2aGVseHlkdHduOGd6eGxsOGludmJuMWc0dG9odjU1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="500" alt="NUX_Octodex">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F0cGwwa24wc3Rqa2t1a2E4MzdmZmFrNnhwYmxxNHpsbmd1ZTUxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VYdgE52Ik7Cc7vBrGA/giphy.gif" width="500" alt="NUX_Octodex">
 
 # 💫 About Me:
 🔭 I’m currently working in the Software Engineering field, focusing on building scalable and maintainable backend systems.<br>👯 I’m looking to collaborate on Java-based projects, backend APIs, or open-source developer tools.<br>🤝 I’m looking for help with cloud infrastructure (AWS/GCP) and writing clean, testable code in large codebases.<br>🌱 I’m currently learning Python, microservices architecture, and DevOps tools like Docker and Kubernetes.<br>💬 Ask me about Java, Spring Boot, Hibernate, or how to structure a clean layered backend.<br>⚡ Fun fact: I love solving complex problems and automating repetitive tasks—because why do it twice if you can script it once? ⚙️😄
